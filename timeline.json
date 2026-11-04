@@ -1,0 +1,124 @@
+{
+  "title": {
+    "media": {
+      "url": "https://upload.wikimedia.org/wikipedia/commons/2/28/Artificial_Intelligence_Brain.png",
+      "caption": "AI-ის ევოლუცია"
+    },
+    "text": {
+      "headline": "ხელოვნური ინტელექტის განვითარების ისტორია",
+      "text": "<p>ეს თაიმლაინი ასახავს ხელოვნური ინტელექტის (AI) განვითარების უმნიშვნელოვანეს ეტაპებს 1950 წლიდან დღემდე.</p>"
+    }
+  },
+  "events": [
+    {
+      "start_date": { "year": "1950" },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Alan_Turing_Aged_16.jpg",
+        "caption": "ალან ტურინგი"
+      },
+      "text": {
+        "headline": "ტურინგის ტესტი",
+        "text": "ალან ტურინგმა გამოაქვეყნა ნაშრომი, სადაც შემოგვთავაზა ტესტი მანქანური ინტელექტის შესაფასებლად (Turing Test)."
+      }
+    },
+    {
+      "start_date": { "year": "1956", "month": "7" },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Dartmouth_College_campus_2007-10-18.JPG",
+        "caption": "დარტმუტის კოლეჯი"
+      },
+      "text": {
+        "headline": "დარტმუტის კონფერენცია",
+        "text": "დარტმუტის საზაფხულო კვლევით პროექტზე პირველად იქნა გამოყენებული ტერმინი 'ხელოვნური ინტელექტი'."
+      }
+    },
+    {
+      "start_date": { "year": "1966" },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Eliza_conversation.png",
+        "caption": "ELIZA-ს ინტერფეისი"
+      },
+      "text": {
+        "headline": "პირველი ჩეთბოტი ELIZA",
+        "text": "ჯოზეფ ვაიზენბაუმმა შექმნა ELIZA, პირველი ჩეთბოტი, რომელიც ფსიქოთერაპევტის სიმულაციას ახდენდა."
+      }
+    },
+    {
+      "start_date": { "year": "1997", "month": "5", "day": "11" },
+      "media": {
+        "url": "https://www.youtube.com/watch?v=NJarxpYyoFI",
+        "caption": "Deep Blue vs კასპაროვი (ვიდეო)"
+      },
+      "text": {
+        "headline": "IBM Deep Blue",
+        "text": "IBM-ის სუპერკომპიუტერმა Deep Blue-მ ჭადრაკში დაამარცხა მსოფლიო ჩემპიონი გარი კასპაროვი."
+      }
+    },
+    {
+      "start_date": { "year": "2011", "month": "2", "day": "16" },
+      "media": {
+        "url": "https://www.youtube.com/watch?v=P18EdAKuC1U",
+        "caption": "Watson Jeopardy-ში (ვიდეო)"
+      },
+      "text": {
+        "headline": "IBM Watson იგებს Jeopardy!-ს",
+        "text": "IBM-ის სისტემა Watson-მა გაიმარჯვა პოპულარულ ტელეთამაშში 'Jeopardy!', სადაც დაამარცხა საუკეთესო ადამიანური მოთამაშეები."
+      }
+    },
+    {
+      "start_date": { "year": "2012", "month": "9", "day": "30" },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Artificial_neural_network.svg",
+        "caption": "ნეირონული ქსელის ილუსტრაცია"
+      },
+      "text": {
+        "headline": "ღრმა სწავლების (Deep Learning) რევოლუცია",
+        "text": "AlexNet-მა დიდი უპირატესობით გაიმარჯვა ImageNet-ის კონკურსში, რითაც კომპიუტერულ ხედვაში რევოლუცია მოახდინა."
+      }
+    },
+    {
+      "start_date": { "year": "2016", "month": "3", "day": "15" },
+      "media": {
+        "url": "https://www.youtube.com/watch?v=8tq1C8spV_g",
+        "caption": "AlphaGo-ს დოკუმენტური ფილმი (ვიდეო)"
+      },
+      "text": {
+        "headline": "AlphaGo ამარცხებს ლი სედოლს",
+        "text": "Google DeepMind-ის მიერ შექმნილმა AlphaGo-მ დაამარცხა გოს (Go) მსოფლიო ჩემპიონი ლი სედოლი 4-1."
+      }
+    },
+    {
+      "start_date": { "year": "2020", "month": "6", "day": "11" },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+        "caption": "OpenAI ლოგო"
+      },
+      "text": {
+        "headline": "GPT-3 მოდელის გამოშვება",
+        "text": "OpenAI-მ წარმოადგინა GPT-3, უზარმაზარი ენობრივი მოდელი 175 მილიარდი პარამეტრით, რომელმაც ტექსტის გენერაციაში ახალი სტანდარტი დაამკვიდრა."
+      }
+    },
+    {
+      "start_date": { "year": "2022", "month": "11", "day": "30" },
+      "media": {
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg",
+        "caption": "ChatGPT ინტერფეისი"
+      },
+      "text": {
+        "headline": "ChatGPT-ის საჯარო ჩაშვება",
+        "text": "OpenAI-მ გამოუშვა ChatGPT. ჩეთბოტმა რამდენიმე დღეში მილიონობით მომხმარებელი შეაგროვა და AI-ის მასობრივი პოპულარიზაცია მოახდინა."
+      }
+    },
+    {
+      "start_date": { "year": "2023", "month": "12", "day": "6" },
+      "media": {
+        "url": "https://www.youtube.com/watch?v=jV1vkHv4zq8",
+        "caption": "Gemini წარდგენა (ვიდეო)"
+      },
+      "text": {
+        "headline": "Google Gemini-ის პრეზენტაცია",
+        "text": "Google-მა წარადგინა Gemini - ახალი თაობის, ძლიერი მულტიმოდალური ხელოვნური ინტელექტის მოდელი."
+      }
+    }
+  ]
+}
